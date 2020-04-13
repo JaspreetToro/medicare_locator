@@ -1,0 +1,2890 @@
+## intent:affirm
+- yes
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely
+- yeah
+- si
+- ok
+- okay
+
+## intent:deny
+- no
+- not today
+- no thanks
+- no thank you
+- uh no
+- noope
+- do you have something else
+- no this does not work for me
+
+## intent:goodbye
+- Bye
+- Bye!
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hi
+
+## intent:inform
+- [Sitka](location)
+- [Juneau](location)
+- [Virginia](location)
+- [Cusseta](location)
+- [Chicago](location)
+- [Tucson](location)
+- [Columbus](location)
+- [Valdez](location)
+- [Preston](location)
+- [Huntsville](location)
+- [Boulder](location)
+- [California](location)
+- [Tulsa](location)
+- [Colorado](location)
+- [Goodyear](location)
+- [Albuquerque](location)
+- [Scottsdale](location)
+- [Hibbing](location)
+- [Norman](location)
+- [San](location)
+- [Peoria](location)
+- [New](location)
+- [Corpus](location)
+- [Montgomery](location)
+- [Wichita](location)
+- [Aurora](location)
+- [Denver](location)
+- [Sierra](location)
+- [Georgetown](location)
+- [Birmingham](location)
+- [Fayetteville](location)
+- [Carson](location)
+- [Raleigh](location)
+- [Bakersfield](location)
+- [Mobile](location)
+- [Detroit](location)
+- [Bunnell](location)
+- [Chattanooga](location)
+- [Mesa](location)
+- [Fernley](location)
+- [Marana](location)
+- [Yuma](location)
+- [Little](location)
+- [Athens](location)
+- [Hartsville](location)
+- [Port](location)
+- [Tampa](location)
+- [Fresno](location)
+- [Unalaska](location)
+- [Eloy](location)
+- [Salt](location)
+- [Jackson](location)
+- [Fort](location)
+- [Casa](location)
+- [Charleston](location)
+- [Henderson](location)
+- [Durham](location)
+- [Abilene](location)
+- [Palmdale](location)
+- [Babbitt](location)
+- [Surprise](location)
+- [Cape](location)
+- [Shreveport](location)
+- [Rio](location)
+- [Savannah](location)
+- [Reno](location)
+- [Orlando](location)
+- [North](location)
+- [Tallahassee](location)
+- [Amarillo](location)
+- [St](location)
+- [Knoxville](location)
+- [Sacramento](location)
+- [Clarksville](location)
+- [Los Angeles](location)
+- [Long Beach](location)
+- [New York](location)
+- [Las Vegas](location)
+- [San Diego](location)
+- [San Antonio](location)
+- [El Paso](location)
+- [Kansas location](location)
+- [San Francisco](location)
+- [Santa Barbara](location)
+- [Santa Monica](location)
+- [Texas](location)
+- [Alameda](location)
+- [Alhambra](location)
+- [Anaheim](location)
+- [Antioch](location)
+- [Arcadia](location)
+- [Bakersfield](location)
+- [Barstow](location)
+- [Belmont](location)
+- [Berkeley](location)
+- [Beverly Hills](location)
+- [Brea](location)
+- [Buena Park](location)
+- [Burbank](location)
+- [Calexico](location)
+- [Calistoga](location)
+- [Carlsbad](location)
+- [Carmel](location)
+- [Chico](location)
+- [Chula Vista](location)
+- [Claremont](location)
+- [Compton](location)
+- [Concord](location)
+- [Corona](location)
+- [Coronado](location)
+- [Costa Mesa](location)
+- [Culver City](location)
+- [Daly City](location)
+- [Davis](location)
+- [Downey](location)
+- [El Centro](location)
+- [El Cerrito](location)
+- [El Monte](location)
+- [Escondido](location)
+- [Eureka](location)
+- [Fairfield](location)
+- [Fontana](location)
+- [Fremont](location)
+- [Fresno](location)
+- [Fullerton](location)
+- [Garden Grove](location)
+- [Glendale](location)
+- [Hayward](location)
+- [Hollywood](location)
+- [Huntington Beach](location)
+- [Indio](location)
+- [Inglewood](location)
+- [Irvine](location)
+- [La Habra](location)
+- [Laguna Beach](location)
+- [Lancaster](location)
+- [Livermore](location)
+- [Lodi](location)
+- [Lompoc](location)
+- [Long Beach](location)
+- [Los Angeles](location)
+- [Malibu](location)
+- [Martinez](location)
+- [Marysville](location)
+- [Menlo Park](location)
+- [Merced](location)
+- [Modesto](location)
+- [Monterey](location)
+- [Mountain View](location)
+- [Napa](location)
+- [Needles](location)
+- [Newport Beach](location)
+- [Norwalk](location)
+- [Novato](location)
+- [Oakland](location)
+- [Oceanside](location)
+- [Ojai](location)
+- [Ontario](location)
+- [Orange](location)
+- [Oroville](location)
+- [Oxnard](location)
+- [Pacific Grove](location)
+- [Palm Springs](location)
+- [Palmdale](location)
+- [Palo Alto](location)
+- [Pasadena](location)
+- [Petaluma](location)
+- [Pomona](location)
+- [Port Hueneme](location)
+- [Rancho Cucamonga](location)
+- [Red Bluff](location)
+- [Redding](location)
+- [Redlands](location)
+- [Redondo Beach](location)
+- [Redwood City](location)
+- [Richmond](location)
+- [Riverside](location)
+- [Sacramento](location)
+- [Salinas](location)
+- [San Bernardino](location)
+- [San Clemente](location)
+- [San Diego](location)
+- [San Fernando](location)
+- [San Francisco](location)
+- [San Gabriel](location)
+- [San Jose](location)
+- [San Juan Capistrano](location)
+- [San Leandro](location)
+- [San Luis Obispo](location)
+- [San Marino](location)
+- [San Mateo](location)
+- [San Pedro](location)
+- [San Rafael](location)
+- [San Simeon](location)
+- [Santa Ana](location)
+- [Santa Barbara](location)
+- [Santa Clara](location)
+- [Santa Clarita](location)
+- [Santa Cruz](location)
+- [Santa Monica](location)
+- [Santa Rosa](location)
+- [Sausalito](location)
+- [Simi Valley](location)
+- [Sonoma](location)
+- [South San Francisco](location)
+- [Stockton](location)
+- [Sunnyvale](location)
+- [Susanville](location)
+- [Thousand Oaks](location)
+- [Torrance](location)
+- [Turlock](location)
+- [Ukiah](location)
+- [Vallejo](location)
+- [Ventura](location)
+- [Victorville](location)
+- [Visalia](location)
+- [Walnut Creek](location)
+- [Watts](location)
+- [West Covina](location)
+- [Whittier](location)
+- [Woodland](location)
+- [Yorba Linda](location)
+- [Yuba City](location)
+- [Alamosa](location)
+- [Aspen](location)
+- [Aurora](location)
+- [Boulder](location)
+- [Breckenridge](location)
+- [Brighton](location)
+- [Canon City](location)
+- [Central City](location)
+- [Climax](location)
+- [Colorado Springs](location)
+- [Cortez](location)
+- [Cripple Creek](location)
+- [Denver](location)
+- [Durango](location)
+- [Englewood](location)
+- [Estes Park](location)
+- [Fort Collins](location)
+- [Fort Morgan](location)
+- [Georgetown](location)
+- [Glenwood Springs](location)
+- [Golden](location)
+- [Grand Junction](location)
+- [Greeley](location)
+- [Gunnison](location)
+- [La Junta](location)
+- [Leadville](location)
+- [Littleton](location)
+- [Longmont](location)
+- [Loveland](location)
+- [Montrose](location)
+- [Ouray](location)
+- [Pagosa Springs](location)
+- [Pueblo](location)
+- [Silverton](location)
+- [Steamboat Springs](location)
+- [Sterling](location)
+- [Telluride](location)
+- [Trinidad](location)
+- [Vail](location)
+- [Walsenburg](location)
+- [Westminster](location)
+- [Ansonia](location)
+- [Berlin](location)
+- [Bloomfield](location)
+- [Branford](location)
+- [Bridgeport](location)
+- [Bristol](location)
+- [Coventry](location)
+- [Danbury](location)
+- [Darien](location)
+- [Derby](location)
+- [East Hartford](location)
+- [East Haven](location)
+- [Enfield](location)
+- [Fairfield](location)
+- [Farmington](location)
+- [Greenwich](location)
+- [Groton](location)
+- [Guilford](location)
+- [Hamden](location)
+- [Hartford](location)
+- [Lebanon](location)
+- [Litchfield](location)
+- [Manchester](location)
+- [Mansfield](location)
+- [Meriden](location)
+- [Middletown](location)
+- [Milford](location)
+- [Mystic](location)
+- [Naugatuck](location)
+- [New Britain](location)
+- [New Haven](location)
+- [New London](location)
+- [North Haven](location)
+- [Norwalk](location)
+- [Norwich](location)
+- [Old Saybrook](location)
+- [Orange](location)
+- [Seymour](location)
+- [Shelton](location)
+- [Simsbury](location)
+- [Southington](location)
+- [Stamford](location)
+- [Stonington](location)
+- [Stratford](location)
+- [Torrington](location)
+- [Wallingford](location)
+- [Waterbury](location)
+- [Waterford](location)
+- [Watertown](location)
+- [West Hartford](location)
+- [West Haven](location)
+- [Westport](location)
+- [Wethersfield](location)
+- [Willimantic](location)
+- [Windham](location)
+- [Windsor](location)
+- [Windsor Locks](location)
+- [Winsted](location)
+- [Dover](location)
+- [Lewes](location)
+- [Milford](location)
+- [New Castle](location)
+- [Newark](location)
+- [Smyrna](location)
+- [Wilmington](location)
+- [Florida](location)
+- [Apalachicola](location)
+- [Bartow](location)
+- [Belle Glade](location)
+- [Boca Raton](location)
+- [Bradenton](location)
+- [Cape Coral](location)
+- [Clearwater](location)
+- [Cocoa Beach](location)
+- [Cocoa-Rockledge](location)
+- [Coral Gables](location)
+- [Daytona Beach](location)
+- [De Land](location)
+- [Deerfield Beach](location)
+- [Delray Beach](location)
+- [Fernandina Beach](location)
+- [Fort Lauderdale](location)
+- [Fort Myers](location)
+- [Fort Pierce](location)
+- [Fort Walton Beach](location)
+- [Gainesville](location)
+- [Hallandale Beach](location)
+- [Hialeah](location)
+- [Hollywood](location)
+- [Homestead](location)
+- [Jacksonville](location)
+- [Key West](location)
+- [Lake City](location)
+- [Lake Wales](location)
+- [Lakeland](location)
+- [Largo](location)
+- [Melbourne](location)
+- [Miami](location)
+- [Miami Beach](location)
+- [Naples](location)
+- [New Smyrna Beach](location)
+- [Ocala](location)
+- [Orlando](location)
+- [Ormond Beach](location)
+- [Palatka](location)
+- [Palm Bay](location)
+- [Palm Beach](location)
+- [Panama City](location)
+- [Pensacola](location)
+- [Pompano Beach](location)
+- [Saint Augustine](location)
+- [Saint Petersburg](location)
+- [Sanford](location)
+- [Sarasota](location)
+- [Sebring](location)
+- [Tallahassee](location)
+- [Tampa](location)
+- [Tarpon Springs](location)
+- [Titusville](location)
+- [Venice](location)
+- [West Palm Beach](location)
+- [White Springs](location)
+- [Winter Haven](location)
+- [Winter Park](location)
+- [Georgia](location)
+- [Albany](location)
+- [Americus](location)
+- [Andersonville](location)
+- [Athens](location)
+- [Atlanta](location)
+- [Augusta](location)
+- [Bainbridge](location)
+- [Blairsville](location)
+- [Brunswick](location)
+- [Calhoun](location)
+- [Carrollton](location)
+- [Columbus](location)
+- [Dahlonega](location)
+- [Dalton](location)
+- [Darien](location)
+- [Decatur](location)
+- [Douglas](location)
+- [East Point](location)
+- [Fitzgerald](location)
+- [Fort Valley](location)
+- [Gainesville](location)
+- [La Grange](location)
+- [Macon](location)
+- [Marietta](location)
+- [Milledgeville](location)
+- [Plains](location)
+- [Rome](location)
+- [Savannah](location)
+- [Toccoa](location)
+- [Valdosta](location)
+- [Warm Springs](location)
+- [Warner Robins](location)
+- [Washington](location)
+- [Waycross](location)
+- [Hawaii](location)
+- [Hanalei](location)
+- [Hilo](location)
+- [Honaunau](location)
+- [Honolulu](location)
+- [Kahului](location)
+- [Kaneohe](location)
+- [Kapaa](location)
+- [Kawaihae](location)
+- [Lahaina](location)
+- [Laie](location)
+- [Wahiawa](location)
+- [Wailuku](location)
+- [Waimea](location)
+- [Idaho](location)
+- [Blackfoot](location)
+- [Boise](location)
+- [Bonners Ferry](location)
+- [Caldwell](location)
+- [Coeur d’Alene](location)
+- [Idaho City](location)
+- [Idaho Falls](location)
+- [Kellogg](location)
+- [Lewiston](location)
+- [Moscow](location)
+- [Nampa](location)
+- [Pocatello](location)
+- [Priest River](location)
+- [Rexburg](location)
+- [Sun Valley](location)
+- [Twin Falls](location)
+- [Illinois](location)
+- [Alton](location)
+- [Arlington Heights](location)
+- [Arthur](location)
+- [Aurora](location)
+- [Belleville](location)
+- [Belvidere](location)
+- [Bloomington](location)
+- [Brookfield](location)
+- [Cahokia](location)
+- [Cairo](location)
+- [Calumet City](location)
+- [Canton](location)
+- [Carbondale](location)
+- [Carlinville](location)
+- [Carthage](location)
+- [Centralia](location)
+- [Champaign](location)
+- [Charleston](location)
+- [Chester](location)
+- [Chicago](location)
+- [Chicago Heights](location)
+- [Cicero](location)
+- [Collinsville](location)
+- [Danville](location)
+- [Decatur](location)
+- [DeKalb](location)
+- [Des Plaines](location)
+- [Dixon](location)
+- [East Moline](location)
+- [East Saint Louis](location)
+- [Effingham](location)
+- [Elgin](location)
+- [Elmhurst](location)
+- [Evanston](location)
+- [Freeport](location)
+- [Galena](location)
+- [Galesburg](location)
+- [Glen Ellyn](location)
+- [Glenview](location)
+- [Granite City](location)
+- [Harrisburg](location)
+- [Herrin](location)
+- [Highland Park](location)
+- [Jacksonville](location)
+- [Joliet](location)
+- [Kankakee](location)
+- [Kaskaskia](location)
+- [Kewanee](location)
+- [La Salle](location)
+- [Lake Forest](location)
+- [Libertyville](location)
+- [Lincoln](location)
+- [Lisle](location)
+- [Lombard](location)
+- [Macomb](location)
+- [Mattoon](location)
+- [Moline](location)
+- [Monmouth](location)
+- [Mount Vernon](location)
+- [Mundelein](location)
+- [Naperville](location)
+- [Nauvoo](location)
+- [Normal](location)
+- [North Chicago](location)
+- [Oak Park](location)
+- [Oregon](location)
+- [Ottawa](location)
+- [Palatine](location)
+- [Park Forest](location)
+- [Park Ridge](location)
+- [Pekin](location)
+- [Peoria](location)
+- [Petersburg](location)
+- [Pontiac](location)
+- [Quincy](location)
+- [Rantoul](location)
+- [River Forest](location)
+- [Rock Island](location)
+- [Rockford](location)
+- [Salem](location)
+- [Shawneetown](location)
+- [Skokie](location)
+- [South Holland](location)
+- [Springfield](location)
+- [Streator](location)
+- [Summit](location)
+- [Urbana](location)
+- [Vandalia](location)
+- [Virden](location)
+- [Waukegan](location)
+- [Wheaton](location)
+- [Wilmette](location)
+- [Winnetka](location)
+- [Wood River](location)
+- [Zion](location)
+- [Indiana](location)
+- [Anderson](location)
+- [Bedford](location)
+- [Bloomington](location)
+- [Columbus](location)
+- [Connersville](location)
+- [Corydon](location)
+- [Crawfordsville](location)
+- [East Chicago](location)
+- [Elkhart](location)
+- [Elwood](location)
+- [Evansville](location)
+- [Fort Wayne](location)
+- [French Lick](location)
+- [Gary](location)
+- [Geneva](location)
+- [Goshen](location)
+- [Greenfield](location)
+- [Hammond](location)
+- [Hobart](location)
+- [Huntington](location)
+- [Indianapolis](location)
+- [Jeffersonville](location)
+- [Kokomo](location)
+- [Lafayette](location)
+- [Madison](location)
+- [Marion](location)
+- [Michigan City](location)
+- [Mishawaka](location)
+- [Muncie](location)
+- [Nappanee](location)
+- [Nashville](location)
+- [New Albany](location)
+- [New Castle](location)
+- [New Harmony](location)
+- [Peru](location)
+- [Plymouth](location)
+- [Richmond](location)
+- [Santa Claus](location)
+- [Shelbyville](location)
+- [South Bend](location)
+- [Terre Haute](location)
+- [Valparaiso](location)
+- [Vincennes](location)
+- [Wabash](location)
+- [West Lafayette](location)
+- [Iowa](location)
+- [Amana Colonies](location)
+- [Ames](location)
+- [Boone](location)
+- [Burlington](location)
+- [Cedar Falls](location)
+- [Cedar Rapids](location)
+- [Charles City](location)
+- [Cherokee](location)
+- [Clinton](location)
+- [Council Bluffs](location)
+- [Davenport](location)
+- [Des Moines](location)
+- [Dubuque](location)
+- [Estherville](location)
+- [Fairfield](location)
+- [Fort Dodge](location)
+- [Grinnell](location)
+- [Indianola](location)
+- [Iowa City](location)
+- [Keokuk](location)
+- [Mason City](location)
+- [Mount Pleasant](location)
+- [Muscatine](location)
+- [Newton](location)
+- [Oskaloosa](location)
+- [Ottumwa](location)
+- [Sioux City](location)
+- [Waterloo](location)
+- [Webster City](location)
+- [West Des Moines](location)
+- [Kansas](location)
+- [Abilene](location)
+- [Arkansas City](location)
+- [Atchison](location)
+- [Chanute](location)
+- [Coffeyville](location)
+- [Council Grove](location)
+- [Dodge City](location)
+- [Emporia](location)
+- [Fort Scott](location)
+- [Garden City](location)
+- [Great Bend](location)
+- [Hays](location)
+- [Hutchinson](location)
+- [Independence](location)
+- [Junction City](location)
+- [Kansas City](location)
+- [Lawrence](location)
+- [Leavenworth](location)
+- [Liberal](location)
+- [Manhattan](location)
+- [McPherson](location)
+- [Medicine Lodge](location)
+- [Newton](location)
+- [Olathe](location)
+- [Osawatomie](location)
+- [Ottawa](location)
+- [Overland Park](location)
+- [Pittsburg](location)
+- [Salina](location)
+- [Shawnee](location)
+- [Smith Center](location)
+- [Topeka](location)
+- [Wichita](location)
+- [Kentucky](location)
+- [Ashland](location)
+- [Barbourville](location)
+- [Bardstown](location)
+- [Berea](location)
+- [Boonesborough](location)
+- [Bowling Green](location)
+- [Campbellsville](location)
+- [Covington](location)
+- [Danville](location)
+- [Elizabethtown](location)
+- [Frankfort](location)
+- [Harlan](location)
+- [Harrodsburg](location)
+- [Hazard](location)
+- [Henderson](location)
+- [Hodgenville](location)
+- [Hopkinsville](location)
+- [Lexington](location)
+- [Louisville](location)
+- [Mayfield](location)
+- [Maysville](location)
+- [Middlesboro](location)
+- [Newport](location)
+- [Owensboro](location)
+- [Paducah](location)
+- [Paris](location)
+- [Richmond](location)
+- [Louisiana](location)
+- [Abbeville](location)
+- [Alexandria](location)
+- [Bastrop](location)
+- [Baton Rouge](location)
+- [Bogalusa](location)
+- [Bossier City](location)
+- [Gretna](location)
+- [Houma](location)
+- [Lafayette](location)
+- [Lake Charles](location)
+- [Monroe](location)
+- [Morgan City](location)
+- [Natchitoches](location)
+- [New Iberia](location)
+- [New Orleans](location)
+- [Opelousas](location)
+- [Ruston](location)
+- [Saint Martinville](location)
+- [Shreveport](location)
+- [Thibodaux](location)
+- [Maine](location)
+- [Auburn](location)
+- [Augusta](location)
+- [Bangor](location)
+- [Bar Harbor](location)
+- [Bath](location)
+- [Belfast](location)
+- [Biddeford](location)
+- [Boothbay Harbor](location)
+- [Brunswick](location)
+- [Calais](location)
+- [Caribou](location)
+- [Castine](location)
+- [Eastport](location)
+- [Ellsworth](location)
+- [Farmington](location)
+- [Fort Kent](location)
+- [Gardiner](location)
+- [Houlton](location)
+- [Kennebunkport](location)
+- [Kittery](location)
+- [Lewiston](location)
+- [Lubec](location)
+- [Machias](location)
+- [Orono](location)
+- [Portland](location)
+- [Presque Isle](location)
+- [Rockland](location)
+- [Rumford](location)
+- [Saco](location)
+- [Scarborough](location)
+- [Waterville](location)
+- [York](location)
+- [Maryland](location)
+- [Aberdeen](location)
+- [Annapolis](location)
+- [Baltimore](location)
+- [Bethesda-Chevy Chase](location)
+- [Bowie](location)
+- [Cambridge](location)
+- [Catonsville](location)
+- [College Park](location)
+- [Columbia](location)
+- [Cumberland](location)
+- [Easton](location)
+- [Elkton](location)
+- [Emmitsburg](location)
+- [Frederick](location)
+- [Greenbelt](location)
+- [Hagerstown](location)
+- [Hyattsville](location)
+- [Laurel](location)
+- [Oakland](location)
+- [Ocean City](location)
+- [Rockville](location)
+- [Saint Marys City](location)
+- [Salisbury](location)
+- [Silver Spring](location)
+- [Takoma Park](location)
+- [Towson](location)
+- [Westminster](location)
+- [Massachusetts](location)
+- [Abington](location)
+- [Adams](location)
+- [Amesbury](location)
+- [Amherst](location)
+- [Andover](location)
+- [Arlington](location)
+- [Athol](location)
+- [Attleboro](location)
+- [Barnstable](location)
+- [Bedford](location)
+- [Beverly](location)
+- [Boston](location)
+- [Bourne](location)
+- [Braintree](location)
+- [Brockton](location)
+- [Brookline](location)
+- [Cambridge](location)
+- [Canton](location)
+- [Charlestown](location)
+- [Chelmsford](location)
+- [Chelsea](location)
+- [Chicopee](location)
+- [Clinton](location)
+- [Cohasset](location)
+- [Concord](location)
+- [Danvers](location)
+- [Dartmouth](location)
+- [Dedham](location)
+- [Dennis](location)
+- [Duxbury](location)
+- [Eastham](location)
+- [Edgartown](location)
+- [Everett](location)
+- [Fairhaven](location)
+- [Fall River](location)
+- [Falmouth](location)
+- [Fitchburg](location)
+- [Framingham](location)
+- [Gloucester](location)
+- [Great Barrington](location)
+- [Greenfield](location)
+- [Groton](location)
+- [Harwich](location)
+- [Haverhill](location)
+- [Hingham](location)
+- [Holyoke](location)
+- [Hyannis](location)
+- [Ipswich](location)
+- [Lawrence](location)
+- [Lenox](location)
+- [Leominster](location)
+- [Lexington](location)
+- [Lowell](location)
+- [Ludlow](location)
+- [Lynn](location)
+- [Malden](location)
+- [Marblehead](location)
+- [Marlborough](location)
+- [Medford](location)
+- [Milton](location)
+- [Nahant](location)
+- [Natick](location)
+- [New Bedford](location)
+- [Newburyport](location)
+- [Newton](location)
+- [North Adams](location)
+- [Northampton](location)
+- [Norton](location)
+- [Norwood](location)
+- [Peabody](location)
+- [Pittsfield](location)
+- [Plymouth](location)
+- [Provincetown](location)
+- [Quincy](location)
+- [Randolph](location)
+- [Revere](location)
+- [Salem](location)
+- [Sandwich](location)
+- [Saugus](location)
+- [Somerville](location)
+- [South Hadley](location)
+- [Springfield](location)
+- [Stockbridge](location)
+- [Stoughton](location)
+- [Sturbridge](location)
+- [Sudbury](location)
+- [Taunton](location)
+- [Tewksbury](location)
+- [Truro](location)
+- [Watertown](location)
+- [Webster](location)
+- [Wellesley](location)
+- [Wellfleet](location)
+- [West Bridgewater](location)
+- [West Springfield](location)
+- [Westfield](location)
+- [Weymouth](location)
+- [Whitman](location)
+- [Williamstown](location)
+- [Woburn](location)
+- [Woods Hole](location)
+- [Worcester](location)
+- [Michigan](location)
+- [Adrian](location)
+- [Alma](location)
+- [Ann Arbor](location)
+- [Battle Creek](location)
+- [Bay City](location)
+- [Benton Harbor](location)
+- [Bloomfield Hills](location)
+- [Cadillac](location)
+- [Charlevoix](location)
+- [Cheboygan](location)
+- [Dearborn](location)
+- [Detroit](location)
+- [East Lansing](location)
+- [Eastpointe](location)
+- [Ecorse](location)
+- [Escanaba](location)
+- [Flint](location)
+- [Grand Haven](location)
+- [Grand Rapids](location)
+- [Grayling](location)
+- [Grosse Pointe](location)
+- [Hancock](location)
+- [Highland Park](location)
+- [Holland](location)
+- [Houghton](location)
+- [Interlochen](location)
+- [Iron Mountain](location)
+- [Ironwood](location)
+- [Ishpeming](location)
+- [Jackson](location)
+- [Kalamazoo](location)
+- [Lansing](location)
+- [Livonia](location)
+- [Ludington](location)
+- [Mackinaw City](location)
+- [Manistee](location)
+- [Marquette](location)
+- [Menominee](location)
+- [Midland](location)
+- [Monroe](location)
+- [Mount Clemens](location)
+- [Mount Pleasant](location)
+- [Muskegon](location)
+- [Niles](location)
+- [Petoskey](location)
+- [Pontiac](location)
+- [Port Huron](location)
+- [Royal Oak](location)
+- [Saginaw](location)
+- [Saint Ignace](location)
+- [Saint Joseph](location)
+- [Sault Sainte Marie](location)
+- [Traverse City](location)
+- [Trenton](location)
+- [Warren](location)
+- [Wyandotte](location)
+- [Ypsilanti](location)
+- [Minnesota](location)
+- [Albert Lea](location)
+- [Alexandria](location)
+- [Austin](location)
+- [Bemidji](location)
+- [Bloomington](location)
+- [Brainerd](location)
+- [Crookston](location)
+- [Duluth](location)
+- [Ely](location)
+- [Eveleth](location)
+- [Faribault](location)
+- [Fergus Falls](location)
+- [Hastings](location)
+- [Hibbing](location)
+- [International Falls](location)
+- [Little Falls](location)
+- [Mankato](location)
+- [Minneapolis](location)
+- [Moorhead](location)
+- [New Ulm](location)
+- [Northfield](location)
+- [Owatonna](location)
+- [Pipestone](location)
+- [Red Wing](location)
+- [Rochester](location)
+- [Saint Cloud](location)
+- [Saint Paul](location)
+- [Sauk Centre](location)
+- [South Saint Paul](location)
+- [Stillwater](location)
+- [Virginia](location)
+- [Willmar](location)
+- [Winona](location)
+- [Mississippi](location)
+- [Bay Saint Louis](location)
+- [Biloxi](location)
+- [Canton](location)
+- [Clarksdale](location)
+- [Columbia](location)
+- [Columbus](location)
+- [Corinth](location)
+- [Greenville](location)
+- [Greenwood](location)
+- [Grenada](location)
+- [Gulfport](location)
+- [Hattiesburg](location)
+- [Holly Springs](location)
+- [Jackson](location)
+- [Laurel](location)
+- [Meridian](location)
+- [Natchez](location)
+- [Ocean Springs](location)
+- [Oxford](location)
+- [Pascagoula](location)
+- [Pass Christian](location)
+- [Philadelphia](location)
+- [Port Gibson](location)
+- [Starkville](location)
+- [Tupelo](location)
+- [Vicksburg](location)
+- [West Point](location)
+- [Yazoo City](location)
+- [Missouri](location)
+- [Boonville](location)
+- [Branson](location)
+- [Cape Girardeau](location)
+- [Carthage](location)
+- [Chillicothe](location)
+- [Clayton](location)
+- [Columbia](location)
+- [Excelsior Springs](location)
+- [Ferguson](location)
+- [Florissant](location)
+- [Fulton](location)
+- [Hannibal](location)
+- [Independence](location)
+- [Jefferson City](location)
+- [Joplin](location)
+- [Kansas City](location)
+- [Kirksville](location)
+- [Lamar](location)
+- [Lebanon](location)
+- [Lexington](location)
+- [Maryville](location)
+- [Mexico](location)
+- [Monett](location)
+- [Neosho](location)
+- [New Madrid](location)
+- [Rolla](location)
+- [Saint Charles](location)
+- [Saint Joseph](location)
+- [Saint Louis](location)
+- [Sainte Genevieve](location)
+- [Salem](location)
+- [Sedalia](location)
+- [Springfield](location)
+- [Warrensburg](location)
+- [West Plains](location)
+- [Montana](location)
+- [Anaconda](location)
+- [Billings](location)
+- [Bozeman](location)
+- [Butte](location)
+- [Dillon](location)
+- [Fort Benton](location)
+- [Glendive](location)
+- [Great Falls](location)
+- [Havre](location)
+- [Helena](location)
+- [Kalispell](location)
+- [Lewistown](location)
+- [Livingston](location)
+- [Miles City](location)
+- [Missoula](location)
+- [Virginia City](location)
+- [Nebraska](location)
+- [Beatrice](location)
+- [Bellevue](location)
+- [Boys Town](location)
+- [Chadron](location)
+- [Columbus](location)
+- [Fremont](location)
+- [Grand Island](location)
+- [Hastings](location)
+- [Kearney](location)
+- [Lincoln](location)
+- [McCook](location)
+- [Minden](location)
+- [Nebraska City](location)
+- [Norfolk](location)
+- [North Platte](location)
+- [Omaha](location)
+- [Plattsmouth](location)
+- [Red Cloud](location)
+- [Sidney](location)
+- [Nevada](location)
+- [Boulder City](location)
+- [Carson City](location)
+- [Elko](location)
+- [Ely](location)
+- [Fallon](location)
+- [Genoa](location)
+- [Goldfield](location)
+- [Henderson](location)
+- [Las Vegas](location)
+- [North Las Vegas](location)
+- [Reno](location)
+- [Sparks](location)
+- [Virginia City](location)
+- [Winnemucca](location)
+- [New Hampshire](location)
+- [Berlin](location)
+- [Claremont](location)
+- [Concord](location)
+- [Derry](location)
+- [Dover](location)
+- [Durham](location)
+- [Exeter](location)
+- [Franklin](location)
+- [Hanover](location)
+- [Hillsborough](location)
+- [Keene](location)
+- [Laconia](location)
+- [Lebanon](location)
+- [Manchester](location)
+- [Nashua](location)
+- [Peterborough](location)
+- [Plymouth](location)
+- [Portsmouth](location)
+- [Rochester](location)
+- [Salem](location)
+- [Somersworth](location)
+- [New Jersey](location)
+- [Asbury Park](location)
+- [Atlantic City](location)
+- [Bayonne](location)
+- [Bloomfield](location)
+- [Bordentown](location)
+- [Bound Brook](location)
+- [Bridgeton](location)
+- [Burlington](location)
+- [Caldwell](location)
+- [Camden](location)
+- [Cape May](location)
+- [Clifton](location)
+- [Cranford](location)
+- [East Orange](location)
+- [Edison](location)
+- [Elizabeth](location)
+- [Englewood](location)
+- [Fort Lee](location)
+- [Glassboro](location)
+- [Hackensack](location)
+- [Haddonfield](location)
+- [Hoboken](location)
+- [Irvington](location)
+- [Jersey City](location)
+- [Lakehurst](location)
+- [Lakewood](location)
+- [Long Beach](location)
+- [Long Branch](location)
+- [Madison](location)
+- [Menlo Park](location)
+- [Millburn](location)
+- [Millville](location)
+- [Montclair](location)
+- [Morristown](location)
+- [Mount Holly](location)
+- [New Brunswick](location)
+- [New Milford](location)
+- [Newark](location)
+- [Ocean City](location)
+- [Orange](location)
+- [Parsippany–Troy Hills](location)
+- [Passaic](location)
+- [Paterson](location)
+- [Perth Amboy](location)
+- [Plainfield](location)
+- [Princeton](location)
+- [Ridgewood](location)
+- [Roselle](location)
+- [Rutherford](location)
+- [Salem](location)
+- [Somerville](location)
+- [South Orange Village](location)
+- [Totowa](location)
+- [Trenton](location)
+- [Union](location)
+- [Union City](location)
+- [Vineland](location)
+- [Wayne](location)
+- [Weehawken](location)
+- [West New York](location)
+- [West Orange](location)
+- [Willingboro](location)
+- [Woodbridge](location)
+- [New Mexico](location)
+- [Acoma](location)
+- [Alamogordo](location)
+- [Albuquerque](location)
+- [Artesia](location)
+- [Belen](location)
+- [Carlsbad](location)
+- [Clovis](location)
+- [Deming](location)
+- [Farmington](location)
+- [Gallup](location)
+- [Grants](location)
+- [Hobbs](location)
+- [Las Cruces](location)
+- [Las Vegas](location)
+- [Los Alamos](location)
+- [Lovington](location)
+- [Portales](location)
+- [Raton](location)
+- [Roswell](location)
+- [Santa Fe](location)
+- [Shiprock](location)
+- [Silver City](location)
+- [Socorro](location)
+- [Taos](location)
+- [Truth or Consequences](location)
+- [Tucumcari](location)
+- [New York](location)
+- [Albany](location)
+- [Amsterdam](location)
+- [Auburn](location)
+- [Babylon](location)
+- [Batavia](location)
+- [Beacon](location)
+- [Bedford](location)
+- [Binghamton](location)
+- [Bronx](location)
+- [Brooklyn](location)
+- [Buffalo](location)
+- [Chautauqua](location)
+- [Cheektowaga](location)
+- [Clinton](location)
+- [Cohoes](location)
+- [Coney Island](location)
+- [Cooperstown](location)
+- [Corning](location)
+- [Cortland](location)
+- [Crown Point](location)
+- [Dunkirk](location)
+- [East Aurora](location)
+- [East Hampton](location)
+- [Eastchester](location)
+- [Elmira](location)
+- [Flushing](location)
+- [Forest Hills](location)
+- [Fredonia](location)
+- [Garden City](location)
+- [Geneva](location)
+- [Glens Falls](location)
+- [Gloversville](location)
+- [Great Neck](location)
+- [Hammondsport](location)
+- [Harlem](location)
+- [Hempstead](location)
+- [Herkimer](location)
+- [Hudson](location)
+- [Huntington](location)
+- [Hyde Park](location)
+- [Ilion](location)
+- [Ithaca](location)
+- [Jamestown](location)
+- [Johnstown](location)
+- [Kingston](location)
+- [Lackawanna](location)
+- [Lake Placid](location)
+- [Levittown](location)
+- [Lockport](location)
+- [Mamaroneck](location)
+- [Manhattan](location)
+- [Massena](location)
+- [Middletown](location)
+- [Mineola](location)
+- [Mount Vernon](location)
+- [New Paltz](location)
+- [New Rochelle](location)
+- [New Windsor](location)
+- [New York City](location)
+- [Newburgh](location)
+- [Niagara Falls](location)
+- [North Hempstead](location)
+- [Nyack](location)
+- [Ogdensburg](location)
+- [Olean](location)
+- [Oneida](location)
+- [Oneonta](location)
+- [Ossining](location)
+- [Oswego](location)
+- [Oyster Bay](location)
+- [Palmyra](location)
+- [Peekskill](location)
+- [Plattsburgh](location)
+- [Port Washington](location)
+- [Potsdam](location)
+- [Poughkeepsie](location)
+- [Queens](location)
+- [Rensselaer](location)
+- [Rochester](location)
+- [Rome](location)
+- [Rotterdam](location)
+- [Rye](location)
+- [Sag Harbor](location)
+- [Saranac Lake](location)
+- [Saratoga Springs](location)
+- [Scarsdale](location)
+- [Schenectady](location)
+- [Seneca Falls](location)
+- [Southampton](location)
+- [Staten Island](location)
+- [Stony Brook](location)
+- [Stony Point](location)
+- [Syracuse](location)
+- [Tarrytown](location)
+- [Ticonderoga](location)
+- [Tonawanda](location)
+- [Troy](location)
+- [Utica](location)
+- [Watertown](location)
+- [Watervliet](location)
+- [Watkins Glen](location)
+- [West Seneca](location)
+- [White Plains](location)
+- [Woodstock](location)
+- [Yonkers](location)
+- [North Carolina](location)
+- [Asheboro](location)
+- [Asheville](location)
+- [Bath](location)
+- [Beaufort](location)
+- [Boone](location)
+- [Burlington](location)
+- [Chapel Hill](location)
+- [Charlotte](location)
+- [Concord](location)
+- [Durham](location)
+- [Edenton](location)
+- [Elizabeth City](location)
+- [Fayetteville](location)
+- [Gastonia](location)
+- [Goldsboro](location)
+- [Greensboro](location)
+- [Greenville](location)
+- [Halifax](location)
+- [Henderson](location)
+- [Hickory](location)
+- [High Point](location)
+- [Hillsborough](location)
+- [Jacksonville](location)
+- [Kinston](location)
+- [Kitty Hawk](location)
+- [Lumberton](location)
+- [Morehead City](location)
+- [Morganton](location)
+- [Nags Head](location)
+- [New Bern](location)
+- [Pinehurst](location)
+- [Raleigh](location)
+- [Rocky Mount](location)
+- [Salisbury](location)
+- [Shelby](location)
+- [Washington](location)
+- [Wilmington](location)
+- [Wilson](location)
+- [Winston-Salem](location)
+- [North Dakota](location)
+- [Bismarck](location)
+- [Devils Lake](location)
+- [Dickinson](location)
+- [Fargo](location)
+- [Grand Forks](location)
+- [Jamestown](location)
+- [Mandan](location)
+- [Minot](location)
+- [Rugby](location)
+- [Valley City](location)
+- [Wahpeton](location)
+- [Williston](location)
+- [Ohio](location)
+- [Akron](location)
+- [Alliance](location)
+- [Ashtabula](location)
+- [Athens](location)
+- [Barberton](location)
+- [Bedford](location)
+- [Bellefontaine](location)
+- [Bowling Green](location)
+- [Canton](location)
+- [Chillicothe](location)
+- [Cincinnati](location)
+- [Cleveland](location)
+- [Cleveland Heights](location)
+- [Columbus](location)
+- [Conneaut](location)
+- [Cuyahoga Falls](location)
+- [Dayton](location)
+- [Defiance](location)
+- [Delaware](location)
+- [East Cleveland](location)
+- [East Liverpool](location)
+- [Elyria](location)
+- [Euclid](location)
+- [Findlay](location)
+- [Gallipolis](location)
+- [Greenville](location)
+- [Hamilton](location)
+- [Kent](location)
+- [Kettering](location)
+- [Lakewood](location)
+- [Lancaster](location)
+- [Lima](location)
+- [Lorain](location)
+- [Mansfield](location)
+- [Marietta](location)
+- [Marion](location)
+- [Martins Ferry](location)
+- [Massillon](location)
+- [Mentor](location)
+- [Middletown](location)
+- [Milan](location)
+- [Mount Vernon](location)
+- [New Philadelphia](location)
+- [Newark](location)
+- [Niles](location)
+- [North College Hill](location)
+- [Norwalk](location)
+- [Oberlin](location)
+- [Painesville](location)
+- [Parma](location)
+- [Piqua](location)
+- [Portsmouth](location)
+- [Put-in-Bay](location)
+- [Salem](location)
+- [Sandusky](location)
+- [Shaker Heights](location)
+- [Springfield](location)
+- [Steubenville](location)
+- [Tiffin](location)
+- [Toledo](location)
+- [Urbana](location)
+- [Warren](location)
+- [Wooster](location)
+- [Worthington](location)
+- [Xenia](location)
+- [Yellow Springs](location)
+- [Youngstown](location)
+- [Zanesville](location)
+- [Oklahoma](location)
+- [Ada](location)
+- [Altus](location)
+- [Alva](location)
+- [Anadarko](location)
+- [Ardmore](location)
+- [Bartlesville](location)
+- [Bethany](location)
+- [Chickasha](location)
+- [Claremore](location)
+- [Clinton](location)
+- [Cushing](location)
+- [Duncan](location)
+- [Durant](location)
+- [Edmond](location)
+- [El Reno](location)
+- [Elk City](location)
+- [Enid](location)
+- [Eufaula](location)
+- [Frederick](location)
+- [Guthrie](location)
+- [Guymon](location)
+- [Hobart](location)
+- [Holdenville](location)
+- [Hugo](location)
+- [Lawton](location)
+- [McAlester](location)
+- [Miami](location)
+- [Midwest City](location)
+- [Moore](location)
+- [Muskogee](location)
+- [Norman](location)
+- [Oklahoma City](location)
+- [Okmulgee](location)
+- [Pauls Valley](location)
+- [Pawhuska](location)
+- [Perry](location)
+- [Ponca City](location)
+- [Pryor](location)
+- [Sallisaw](location)
+- [Sand Springs](location)
+- [Sapulpa](location)
+- [Seminole](location)
+- [Shawnee](location)
+- [Stillwater](location)
+- [Tahlequah](location)
+- [The Village](location)
+- [Tulsa](location)
+- [Vinita](location)
+- [Wewoka](location)
+- [Woodward](location)
+- [Oregon](location)
+- [Albany](location)
+- [Ashland](location)
+- [Astoria](location)
+- [Baker City](location)
+- [Beaverton](location)
+- [Bend](location)
+- [Brookings](location)
+- [Burns](location)
+- [Coos Bay](location)
+- [Corvallis](location)
+- [Eugene](location)
+- [Grants Pass](location)
+- [Hillsboro](location)
+- [Hood River](location)
+- [Jacksonville](location)
+- [John Day](location)
+- [Klamath Falls](location)
+- [La Grande](location)
+- [Lake Oswego](location)
+- [Lakeview](location)
+- [McMinnville](location)
+- [Medford](location)
+- [Newberg](location)
+- [Newport](location)
+- [Ontario](location)
+- [Oregon City](location)
+- [Pendleton](location)
+- [Port Orford](location)
+- [Portland](location)
+- [Prineville](location)
+- [Redmond](location)
+- [Reedsport](location)
+- [Roseburg](location)
+- [Salem](location)
+- [Seaside](location)
+- [Springfield](location)
+- [The Dalles](location)
+- [Tillamook](location)
+- [Pennsylvania](location)
+- [Abington](location)
+- [Aliquippa](location)
+- [Allentown](location)
+- [Altoona](location)
+- [Ambridge](location)
+- [Bedford](location)
+- [Bethlehem](location)
+- [Bloomsburg](location)
+- [Bradford](location)
+- [Bristol](location)
+- [Carbondale](location)
+- [Carlisle](location)
+- [Chambersburg](location)
+- [Chester](location)
+- [Columbia](location)
+- [Easton](location)
+- [Erie](location)
+- [Franklin](location)
+- [Germantown](location)
+- [Gettysburg](location)
+- [Greensburg](location)
+- [Hanover](location)
+- [Harmony](location)
+- [Harrisburg](location)
+- [Hazleton](location)
+- [Hershey](location)
+- [Homestead](location)
+- [Honesdale](location)
+- [Indiana](location)
+- [Jeannette](location)
+- [Jim Thorpe](location)
+- [Johnstown](location)
+- [Lancaster](location)
+- [Lebanon](location)
+- [Levittown](location)
+- [Lewistown](location)
+- [Lock Haven](location)
+- [Lower Southampton](location)
+- [McKeesport](location)
+- [Meadville](location)
+- [Middletown](location)
+- [Monroeville](location)
+- [Nanticoke](location)
+- [New Castle](location)
+- [New Hope](location)
+- [New Kensington](location)
+- [Norristown](location)
+- [Oil City](location)
+- [Philadelphia](location)
+- [Phoenixville](location)
+- [Pittsburgh](location)
+- [Pottstown](location)
+- [Pottsville](location)
+- [Reading](location)
+- [Scranton](location)
+- [Shamokin](location)
+- [Sharon](location)
+- [State College](location)
+- [Stroudsburg](location)
+- [Sunbury](location)
+- [Swarthmore](location)
+- [Tamaqua](location)
+- [Titusville](location)
+- [Uniontown](location)
+- [Warren](location)
+- [Washington](location)
+- [West Chester](location)
+- [Wilkes-Barre](location)
+- [Williamsport](location)
+- [York](location)
+- [Rhode Island](location)
+- [Barrington](location)
+- [Bristol](location)
+- [Central Falls](location)
+- [Cranston](location)
+- [East Greenwich](location)
+- [East Providence](location)
+- [Kingston](location)
+- [Middletown](location)
+- [Narragansett](location)
+- [Newport](location)
+- [North Kingstown](location)
+- [Pawtucket](location)
+- [Portsmouth](location)
+- [Providence](location)
+- [South Kingstown](location)
+- [Tiverton](location)
+- [Warren](location)
+- [Warwick](location)
+- [Westerly](location)
+- [Wickford](location)
+- [Woonsocket](location)
+- [South Carolina](location)
+- [Abbeville](location)
+- [Aiken](location)
+- [Anderson](location)
+- [Beaufort](location)
+- [Camden](location)
+- [Charleston](location)
+- [Columbia](location)
+- [Darlington](location)
+- [Florence](location)
+- [Gaffney](location)
+- [Georgetown](location)
+- [Greenville](location)
+- [Greenwood](location)
+- [Hartsville](location)
+- [Lancaster](location)
+- [Mount Pleasant](location)
+- [Myrtle Beach](location)
+- [Orangeburg](location)
+- [Rock Hill](location)
+- [Spartanburg](location)
+- [Sumter](location)
+- [Union](location)
+- [South Dakota](location)
+- [Aberdeen](location)
+- [Belle Fourche](location)
+- [Brookings](location)
+- [Canton](location)
+- [Custer](location)
+- [De Smet](location)
+- [Deadwood](location)
+- [Hot Springs](location)
+- [Huron](location)
+- [Lead](location)
+- [Madison](location)
+- [Milbank](location)
+- [Mitchell](location)
+- [Mobridge](location)
+- [Pierre](location)
+- [Rapid City](location)
+- [Sioux Falls](location)
+- [Spearfish](location)
+- [Sturgis](location)
+- [Vermillion](location)
+- [Watertown](location)
+- [Yankton](location)
+- [Tennessee](location)
+- [Alcoa](location)
+- [Athens](location)
+- [Chattanooga](location)
+- [Clarksville](location)
+- [Cleveland](location)
+- [Columbia](location)
+- [Cookeville](location)
+- [Dayton](location)
+- [Elizabethton](location)
+- [Franklin](location)
+- [Gallatin](location)
+- [Gatlinburg](location)
+- [Greeneville](location)
+- [Jackson](location)
+- [Johnson City](location)
+- [Jonesborough](location)
+- [Kingsport](location)
+- [Knoxville](location)
+- [Lebanon](location)
+- [Maryville](location)
+- [Memphis](location)
+- [Morristown](location)
+- [Murfreesboro](location)
+- [Nashville](location)
+- [Norris](location)
+- [Oak Ridge](location)
+- [Shelbyville](location)
+- [Tullahoma](location)
+- [Texas](location)
+- [Abilene](location)
+- [Alpine](location)
+- [Amarillo](location)
+- [Arlington](location)
+- [Austin](location)
+- [Baytown](location)
+- [Beaumont](location)
+- [Big Spring](location)
+- [Borger](location)
+- [Brownsville](location)
+- [Bryan](location)
+- [Canyon](location)
+- [Cleburne](location)
+- [College Station](location)
+- [Corpus Christi](location)
+- [Crystal City](location)
+- [Dallas](location)
+- [Del Rio](location)
+- [Denison](location)
+- [Denton](location)
+- [Eagle Pass](location)
+- [Edinburg](location)
+- [El Paso](location)
+- [Fort Worth](location)
+- [Freeport](location)
+- [Galveston](location)
+- [Garland](location)
+- [Goliad](location)
+- [Greenville](location)
+- [Harlingen](location)
+- [Houston](location)
+- [Huntsville](location)
+- [Irving](location)
+- [Johnson City](location)
+- [Kilgore](location)
+- [Killeen](location)
+- [Kingsville](location)
+- [Laredo](location)
+- [Longview](location)
+- [Lubbock](location)
+- [Lufkin](location)
+- [Marshall](location)
+- [McAllen](location)
+- [McKinney](location)
+- [Mesquite](location)
+- [Midland](location)
+- [Mission](location)
+- [Nacogdoches](location)
+- [New Braunfels](location)
+- [Odessa](location)
+- [Orange](location)
+- [Pampa](location)
+- [Paris](location)
+- [Pasadena](location)
+- [Pecos](location)
+- [Pharr](location)
+- [Plainview](location)
+- [Plano](location)
+- [Port Arthur](location)
+- [Port Lavaca](location)
+- [Richardson](location)
+- [San Angelo](location)
+- [San Antonio](location)
+- [San Felipe](location)
+- [San Marcos](location)
+- [Sherman](location)
+- [Sweetwater](location)
+- [Temple](location)
+- [Texarkana](location)
+- [Texas City](location)
+- [Tyler](location)
+- [Uvalde](location)
+- [Victoria](location)
+- [Waco](location)
+- [Weatherford](location)
+- [Wichita Falls](location)
+- [Ysleta](location)
+- [Utah](location)
+- [Alta](location)
+- [American Fork](location)
+- [Bountiful](location)
+- [Brigham City](location)
+- [Cedar City](location)
+- [Clearfield](location)
+- [Delta](location)
+- [Fillmore](location)
+- [Green River](location)
+- [Heber City](location)
+- [Kanab](location)
+- [Layton](location)
+- [Lehi](location)
+- [Logan](location)
+- [Manti](location)
+- [Moab](location)
+- [Monticello](location)
+- [Murray](location)
+- [Nephi](location)
+- [Ogden](location)
+- [Orderville](location)
+- [Orem](location)
+- [Panguitch](location)
+- [Park City](location)
+- [Payson](location)
+- [Price](location)
+- [Provo](location)
+- [Saint George](location)
+- [Salt Lake City](location)
+- [Spanish Fork](location)
+- [Springville](location)
+- [Tooele](location)
+- [Vernal](location)
+- [Vermont](location)
+- [Barre](location)
+- [Bellows Falls](location)
+- [Bennington](location)
+- [Brattleboro](location)
+- [Burlington](location)
+- [Essex](location)
+- [Manchester](location)
+- [Middlebury](location)
+- [Montpelier](location)
+- [Newport](location)
+- [Plymouth](location)
+- [Rutland](location)
+- [Saint Albans](location)
+- [Saint Johnsbury](location)
+- [Sharon](location)
+- [Winooski](location)
+- [Virginia](location)
+- [Abingdon](location)
+- [Alexandria](location)
+- [Bristol](location)
+- [Charlottesville](location)
+- [Chesapeake](location)
+- [Danville](location)
+- [Fairfax](location)
+- [Falls Church](location)
+- [Fredericksburg](location)
+- [Hampton](location)
+- [Hanover](location)
+- [Hopewell](location)
+- [Lexington](location)
+- [Lynchburg](location)
+- [Manassas](location)
+- [Martinsville](location)
+- [New Market](location)
+- [Newport News](location)
+- [Norfolk](location)
+- [Petersburg](location)
+- [Portsmouth](location)
+- [Reston](location)
+- [Richmond](location)
+- [Roanoke](location)
+- [Staunton](location)
+- [Suffolk](location)
+- [Virginia Beach](location)
+- [Waynesboro](location)
+- [Williamsburg](location)
+- [Winchester](location)
+- [Washington](location)
+- [Aberdeen](location)
+- [Anacortes](location)
+- [Auburn](location)
+- [Bellevue](location)
+- [Bellingham](location)
+- [Bremerton](location)
+- [Centralia](location)
+- [Coulee Dam](location)
+- [Coupeville](location)
+- [Ellensburg](location)
+- [Ephrata](location)
+- [Everett](location)
+- [Hoquiam](location)
+- [Kelso](location)
+- [Kennewick](location)
+- [Longview](location)
+- [Moses Lake](location)
+- [Oak Harbor](location)
+- [Olympia](location)
+- [Pasco](location)
+- [Point Roberts](location)
+- [Port Angeles](location)
+- [Pullman](location)
+- [Puyallup](location)
+- [Redmond](location)
+- [Renton](location)
+- [Richland](location)
+- [Seattle](location)
+- [Spokane](location)
+- [Tacoma](location)
+- [Vancouver](location)
+- [Walla Walla](location)
+- [Wenatchee](location)
+- [Yakima](location)
+- [West Virginia](location)
+- [Bath](location)
+- [Beckley](location)
+- [Bluefield](location)
+- [Buckhannon](location)
+- [Charles Town](location)
+- [Charleston](location)
+- [Clarksburg](location)
+- [Elkins](location)
+- [Fairmont](location)
+- [Grafton](location)
+- [Harpers Ferry](location)
+- [Hillsboro](location)
+- [Hinton](location)
+- [Huntington](location)
+- [Keyser](location)
+- [Lewisburg](location)
+- [Logan](location)
+- [Martinsburg](location)
+- [Morgantown](location)
+- [Moundsville](location)
+- [New Martinsville](location)
+- [Parkersburg](location)
+- [Philippi](location)
+- [Point Pleasant](location)
+- [Princeton](location)
+- [Romney](location)
+- [Shepherdstown](location)
+- [South Charleston](location)
+- [Summersville](location)
+- [Weirton](location)
+- [Welch](location)
+- [Wellsburg](location)
+- [Weston](location)
+- [Wheeling](location)
+- [White Sulphur Springs](location)
+- [Williamson](location)
+- [Wisconsin](location)
+- [Appleton](location)
+- [Ashland](location)
+- [Baraboo](location)
+- [Belmont](location)
+- [Beloit](location)
+- [Eau Claire](location)
+- [Fond du Lac](location)
+- [Green Bay](location)
+- [Hayward](location)
+- [Janesville](location)
+- [Kenosha](location)
+- [La Crosse](location)
+- [Lake Geneva](location)
+- [Madison](location)
+- [Manitowoc](location)
+- [Marinette](location)
+- [Menasha](location)
+- [Milwaukee](location)
+- [Neenah](location)
+- [New Glarus](location)
+- [Oconto](location)
+- [Oshkosh](location)
+- [Peshtigo](location)
+- [Portage](location)
+- [Prairie du Chien](location)
+- [Racine](location)
+- [Rhinelander](location)
+- [Ripon](location)
+- [Sheboygan](location)
+- [Spring Green](location)
+- [Stevens Point](location)
+- [Sturgeon Bay](location)
+- [Superior](location)
+- [Waukesha](location)
+- [Wausau](location)
+- [Wauwatosa](location)
+- [West Allis](location)
+- [West Bend](location)
+- [Wisconsin Dells](location)
+- [Wyoming](location)
+- [Buffalo](location)
+- [Casper](location)
+- [Cheyenne](location)
+- [Cody](location)
+- [Douglas](location)
+- [Evanston](location)
+- [Gillette](location)
+- [Green River](location)
+- [Jackson](location)
+- [Lander](location)
+- [Laramie](location)
+- [Newcastle](location)
+- [Powell](location)
+- [Rawlins](location)
+- [Riverton](location)
+- [Rock Springs](location)
+- [Sheridan](location)
+- [Ten Sleep](location)
+- [Thermopolis](location)
+- [Torrington](location)
+- [Worland](location)
+- [home health agency](facility_type)
+- [hospital](facility_type)
+- [nursing home](facility_type)
+- a [home health agency](facility_type)
+- a [hospital](facility_type)
+- a [nursing home](facility_type)
+
+## intent:search_provider
+- i need a [hospital](facility_type)
+- find me a nearby [hospital](facility_type)
+- show me [hospitals](facility_type)
+- [hospital](facility_type)
+- find me a nearby [hospital](facility_type) my zip code is [10119](location)
+- i need a [home health agency](facility_type)
+- find me a nearby [home health agency](facility_type)
+- show me [home health agency](facility_type)
+- [home health agency](facility_type)
+- find me a nearby [home health agency](facility_type) my zip code is [10119](location)
+- find me a nearby [nursing home](facility_type)
+- show me [nursing home](facility_type)
+- [nursing home](facility_type)
+- find me a nearby [nursing home](facility_type) my zip code is [10119](location)
+- i need a [hospital](facility_type) my zip code is [77494](location)
+- my zip code is [30277](location) and i need a [nursing home](facility_type)
+- my zip code is [86602](location) and i need a [hospital](facility_type)
+- my zip code is [47516](location) and i need a [home health agency](facility_type)
+- i need a [nursing home](facility_type) at [77474](location)
+- i need a [hospital](facility_type) at [77474](location)
+- i need a [home health agency](facility_type) at [77474](location)
+- i am in [Amarillo](location) and i need a [nursing home](facility_type)
+- i am in [New York](location) and i need a [hospital](facility_type)
+- i am in [Las Vegas](location) and i need a [home healt agency](facility_type)
+- i need a [nursing home](facility_type) in [Katy](location)
+- i need a [hospital](facility_type) in [Waco](location)
+- i need a [home health agency](facility_type) in [Clarksville](location)
+- show me [nursing home](facility_type) in [Knoxville](location)
+- show me [hospital](facility_type) in [Durham](location)
+- show me [home health agency](facility_type) in [Detroit](location)
+- find me a nearby [home health agency](facility_type) in [Reno](location)
+- hi i am in [Tampa](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- hi i am in [San Diego](location) i need a [hospital](facility_type:rbry-mqwu)
+- hi i am in [Nashville](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- hi i am in [Sacramento](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- hi i am in [Springfield](location) i need a [hospital](facility_type:rbry-mqwu)
+- hi i am in [Atlanta](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- hi i am in [Chicago](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- hi i am in [Santa Cruz](location) i need a [hospital](facility_type:rbry-mqwu)
+- hi i am in [Boston](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- hello i am in [Tampa](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- hello i am in [San Diego](location) i need a [hospital](facility_type:rbry-mqwu)
+- hello i am in [Nashville](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- hello i am in [Sacramento](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- hello i am in [Springfield](location) i need a [hospital](facility_type:rbry-mqwu)
+- hello i am in [Atlanta](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- hello i am in [Chicago](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- hello i am in [Santa Cruz](location) i need a [hospital](facility_type:rbry-mqwu)
+- hello i am in [Boston](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- Good morning i am in [Tampa](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- Good morning i am in [San Diego](location) i need a [hospital](facility_type:rbry-mqwu)
+- Good morning i am in [Nashville](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- Good morning i am in [Sacramento](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- Good morning i am in [Springfield](location) i need a [hospital](facility_type:rbry-mqwu)
+- Good morning i am in [Atlanta](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- Good morning i am in [Chicago](location) i need a [nursing  home](facility_type:b27b-2uc7)
+- Good morning i am in [Santa Cruz](location) i need a [hospital](facility_type:rbry-mqwu)
+- Good morning i am in [Boston](location) i need a [home health agenc](facility_type:9wzi-peqs)
+- Hello again i need a [nursing home](facility_type) in [Katy](location)
+- Hello again i need a [hospital](facility_type) in [Waco](location)
+- Hello again i need a [home health agency](facility_type) in [Clarksville](location)
+- Good morning i need a [nursing home](facility_type) in [Katy](location)
+- Good morning i need a [hospital](facility_type) in [Waco](location)
+- Good morning i need a [home health agency](facility_type) in [Clarksville](location)
+- Can you tell me a [nursing home](facility_type) in [Oklahoma City](location) ?
+
+## intent:thankyou
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+
+
+##intent:ask_howdoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
+- nah, I'm good - how are you doing?
+- how are yuo
+- How are you
+- how are you
+- how you doing
+- are you ok
+- How are you today?
+- how are u?
+- okay hi how are you?
+- how r u
+- how r u>
+- and you
+- How are you men?
+- what's up?
+- how are you????
+- how ?
+- how r u ?
+- h r u ?
+- how's it going?
+- hello, how are you?
+- hw r u?
+- what's up
+- wassup>
+- hi how u doing
+- hi how u doing
+- Hi Sara! How are you?
+- how are you ?
+- how are you'
+- how are you doing today?
+- how you doing?
+- How are You?
+- what doing
+- what doing
+- how are xou
+- ¿Qué pasa?
+- hi how are you?
+- hi sara, how are you?
+- Hows it going
+- come stai?
+- How you doing?
+
+##intent:ask_weather
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- Is it raining?
+- What's it like out there?
+- Is it hot or cold?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+- Will I require my raincoat today?
+- What is the weather for tomorrow?
+- Nice day out today?
+- What is the temperature today?
+- Can we expect any thunderstorms?
+- Will the skies be clear today?
+- Are we in for a scorcher?
+- Looks like a beautiful day hey?
+- Will we build a snowman today?
+- Is it humid out there today?
+- Are there any meteorological changes that I need to be aware of?
+- whats the weather like tomorrow?
+- hows the weather in bot world
+- how is the weather in berlin?
+- what's the weather today?
+- how's the weather?
+- what's the weather like where you are?
+- is the sun out where you are?
+- is it sunny
+- is the sun out where zou are?
+- what"s the weather
+- whats the weather in berlin?
+- how's the weather in berlin
+- excellent - is it hot in Berlin?
+- How is the weather today?
+- how is the weather?
+- weather
+- weather?
+- what's the weather like?
+- how's weather
+- how's the weather ?
+- what is the whether today
+- what is the weather in zurich?
+- what about the weather in Lüneburg
+- what's the weather today
+- what is the wather
+- what is the weather
+- Weather?
+- What's the weather like where I am right now?
+- what is the weatehr
+- temperature?
+- what's the weather like in LA
+- what is the weather like where you are?
+- hows the waether
+- is it hot ?
+- is it hot outside ?
+- how is the weather ?
+- it is cold
+- how is the weather
+- well, if you wish: what about the weather
+- weatger
+- What's the weather like over there?
+- Is it raining
+- what is the temperature
+- How is weather today
+- What is the weather in newyork?
+- the weather today
+- what is the weather like?
+- whats the temperature in delhi?
+- whats the temperature
+- hows the weather today in berlin?
+- what's the weather like
+
+##intent:ask_builder
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- which company brought you into existence?
+- which company created you?
+- which company invented you?
+- Who's your boss?
+- Who's your builder?
+- Who built you?
+- Who created you?
+- Who is your creator?
+- Who designed you?
+- who do you work for?
+- Who fabricated you?
+- Who generated you?
+- who had the idea to build you?
+- who had the idea to generate you?
+- who had the idea to make you?
+- who is behind all this?
+- Who is the legal owner of you?
+- who is your boss tell me
+- who is your boss?
+- who is your creator?
+- Who is your programmer?
+- Who made you?
+- Who modeled you?
+- Who owns you?
+- Who produced you?
+- Who thought to make you?
+- Who went through the trouble of setting you up?
+- and who built u?
+- who built you?
+- who build yoi
+- who made you?
+- where were you made?
+- why were you made?
+- who created you?
+- tell me more about you
+- who created you
+- who invent you
+- who developed
+- who developed you
+- who made u
+- you are made by who?
+- who built u?
+- who made u?
+- who is your author
+- who made you
+- who is your boss
+- who built you
+- who is your parent?
+- who are your parents
+- who your author are?
+- who are your author?
+- you are working for which company?
+- who is your employer?
+- what is the name of the smart engineer who creted you ?
+- what is the name of the smart engineer who creted you ?
+- who is your father ?
+- who create you ?
+- who create you ?
+- who's builder
+- who is your mom
+- who is your daddy
+- Who created you?
+- Do you know who built you?
+- Who made you?
+- Who is the name of your builder?
+- Who is the name of your creator?
+- Who is the person that invented you?
+- Do you know who made you?
+- Who were you built by?
+- Who were you created by?
+- Who created you?
+- By whom were you built?
+- Who made you?
+- Who developed you?
+- Who were you created by?
+- Who created and built you?
+- Who is the person responsible for building you?
+- Who is it that built you?
+- Who is responsible for making you?
+- Who developed and created you?
+- Who created you?
+- Who was the person that made you?
+- Who put you together?
+- Who was the person that created you?
+- Who was the person who made you?
+- Who was the person that built you?
+- Who was the person who put you together?
+- Who was the one who made you?
+- Who was the one that built you?
+- Do you know who built you?
+- Who is the person who built you?
+- Tell me who built you.
+- Who is your creator?
+- Who created you?
+- Who is the builder of you?
+- Who were you built by?
+- Tell me the name of your creator.
+- What is the name of your builder?
+- Name the person who built you.
+- Who made you?
+- Who created you?
+- Who were you created by?
+- Who designed you?
+- Tell me the name of the person who built you.
+- Who were you made by?
+- Tell me the name of the individual who created you.
+- Can I ask the name of the people who designed you?
+- What person built you?
+- Who were you built by?
+- who is your creator
+
+##intent:ask_restaurant
+- restaurants
+- can i be shown a gluten free restaurant
+- i want a french restaurant
+- i'm looking for a Chinese restaurant
+- I need a new restaurant
+- help me find restaurant
+- I'm gonna need help finding a restaurant
+- Hey help me find a restaurant
+- How can you help me find a restaurant.
+- Where is the restaurant
+- Show me how to find a restaurant
+- I need to find this restaurant
+- Help me with finding this restaurant
+- Hey, can you help me with locating this restaurant.
+- Find me a place to eat
+- Can you recommend a restaurant open right now
+- What's the closest restaurant open near me
+- I am hungry, find me some place to go
+- Suggest me a good restaurant around
+- Show me the closest open restaurant
+- What's a good place to eat nearby
+- Recommend me a restaurant around here.
+- Pick a restaurant for me, please
+- Help me find a restaurant
+- Can you find a restaurant for me?
+- Find a restaurant for me?
+- Would you find me a restaurant?
+- Would you find a restaurant for me?
+- Could you find me a restaurant?
+- Could you find a restaurant for me?
+- Could you find me a restaurant to eat at?
+- Find a restaurant for me to eat at.
+- Find me a restaurant where I can eat.
+- Find a restaurant for me where I can eat.
+- I need a restaurant.
+- Can you find me a restaurant?
+- Where should I eat?
+- Where should I go for dinner?
+- Any good restaurants nearby?
+- Can you find me a burger joint?
+- I'm looking for a Spanish restaurant.
+- What restaurant would you recommend for dinner?
+- Hi, can you give me the nearest fast food place?
+- Find me a fast food restaurant.
+- Do you find me a restaurant?
+- Is there any restaurant?
+- IS there any near by restaurant?
+- Could you find me a restaurant?
+- can you find me a restaurant?
+- Would you find any restaurant?
+- Do you seek me a restaurant?
+- Have you seen me a restaurant?
+- Will you find me a restaurant?
+- will you see any restaurant for me?
+
+##intent:handleinsult
+- you're a loser lmao
+- you are a stupid bot
+- i hate you
+- Stupid
+- fuck you
+- so dumb
+- you are a moron
+- you are an idiot
+- so fucking dumb
+- are you brain dead?
+- how can you be such an idiot?
+- a baby knows more than you
+- i hate your dumb face
+- you are fucking stupid
+- bloody dunce
+- You're an idiot.
+- You are a fool.
+- You're foolish.
+- You are dumb.
+- You have no sense.
+- You are unintelligent.
+- You're a dolt.
+- You're a dunce.
+- You have no brains.
+- You have no intelligence.
+- You are dumb.
+- You are an idiot.
+- You lack intelligence.
+- You are unknowing.
+- You are shortsighted.
+- Your intelligence is laughable.
+- You know nothing.
+- You lack understanding.
+- Your mindset is naive.
+- You brain is dull.
+- you are dumb
+- you're an idiot
+- God you're a moron
+- you're so dumb
+- you are idiotic
+- you're the most moronic person I know
+- I can't believe how dumb you are
+- you are unintelligent
+- you're not smart
+- you are so ignorant
+- you are stupid
+- you're dumb
+- asshole
+- bitch
+- fuck u
+- idiot
+- deal with my ass, you bitch
+- you son of a bitch
+- shut up asshole
+- you asshole
+- are u dump?
+- are u dump?
+- fuck off
+- fuck
+- Fuck
+- Fuck you
+- fuck you machine learning bot
+- Fuck u
+- fuck you
+- what fuck
+- fucking stupid
+- you are fucking stupid guy！
+- go fuck yourself
+- Fuck off
+- Fuck off
+- fuck rasa
+- fuck you!
+- Fuck Off
+- ok fuck you
+- FUCK
+- fucking work
+- ok shut up
+
+##intent:telljoke
+- tell me a joke
+- Say something funny.
+- Give me a joke.
+- Give me a funny joke.
+- What's a good joke?
+- Do you have any jokes?
+- Do you know any jokes?
+- I need a good joke.
+- Tell me the best joke you know.
+- Tell joke.
+- Tell me something funny.
+- Tell me something funny.
+- Share a joke with me!
+- Tell me something humorous!
+- Will you tell me a joke.
+- Can you tell me a joke.
+- Would you tell me a joke
+- Please tell me a joke.
+- Could you tell me a joke.
+- Would you share a joke with me.
+- Could you please share a joke with me.
+- Make me laugh.
+- Tell me something funny.
+- Entertain me with a joke.
+- Tell me something that you think will make me laugh.
+- I want to hear something funny.
+- Give me some comic relief.
+- Can you tell a joke?
+- Know any jokes?
+- Come up with a joke you think I'll find funny.
+- Let's hear a joke from you.
+- say a joke that's funny
+- make me laugh with a joke
+- tell me something funny, like a joke
+- say a joke
+- tell me a short joke
+- tell me a story joke
+- say a funny joke
+- say a joke that's so bad it's funny
+- make me laugh with a bad joke
+- give me a good joke
+- you can say a jok
+
+##intent:ask_wherefrom
+- where do you live?
+- where do you live
+- where are you from?
+- So where are you from
+- Where are you?
+- Where were you born?
+- What city were you born in?
+- Where did you grow up?
+- What state were you born in?
+- What country were you born in?
+- Where do you come from?
+- Where were you at before you were here?
+- Where from?
+- Do you know where you come from?
+- where's your home town?
+- what country are you from?
+- are you from around here?
+- where did you grow up?
+- where are your parents from?
+- where did you spend your youth?
+- where did you come from?
+- Where were you born?
+- Where do you consider home?
+- What city do you claim to for your birth?
+- What citizenship do you lay claim to?
+- What is your heritage?
+- What is your birthplace?
+- Where did you grow up?
+- You were conceived in what city?
+- What is your root?
+- What is your origin?
+- From where did you come?
+- Where did you come from?
+- Where did you originate?
+- Where are your roots?
+- Where are your origins?
+- What area are you from?
+- What city are you from?
+- What's the name of the place you came from?
+- What is your original city?
+- Where might you be from?
+- Where do you come from?
+- Where do you live?
+- What city are you in?
+- What country are you from?
+- Around where are you from?
+- Where are you located?
+- Are you from around here?
+- You live around here?
+
+##intent:ask_time
+- what is the current time?
+- what is the time in Sydney?
+- whats the time now
+- what is the time ?
+- what is time in US ?
+- what is time is US ?
+- what is time is USA ?
+- what time it is
+- What is the time?
+- Can you give me the time?
+- Time?
+- Do you know the time?
+- Can you tell the time?
+- Give me the time.
+- Tell me the time.
+- Could you tell me what time is it?
+- Excuse me, what time is it?
+- Do you know what time it is?
+- Could you tell me the time?
+- Could you tell me the time, please?
+- What is the time?
+- Do you know the time?
+- Would you tell me what time it is?
+- Time, please!
+- Pardon me, but do you know the time?
+- Time?
+- What's the time?
+- Do you know what time it is?
+- What's the current time?
+- What time is it right now?
+- Do you have the time?
+- Can you tell me what time it is?
+- Hi, I need the time.
+- I need to know what time it is.
+- Tell me the time.
+- What is the time?
+- What's the time right now?
+- What is the current time?
+- Can you tell me the time?
+- What might the time be?
+- What is the hour and minute right now?
+- What time have we got?
+- What time is it right now?
+- What time do we have?
+- What is the exact time?
+- what is the time?
+- do you know the current time?
+- what is the current time?
+- what time do you have?
+- do you have the time?
+- tell me the current time.
+- tell me the time.
+- tell me what time you have.
+- tell me the time it is.
+- what time is it?
+
+##intent:ask_howold
+- whats your age?
+- how old?
+- what's your age?
+- when were you born?
+- what is your birthday?
+- when is your birthday?
+- how many years old are you?
+- do you know how old you are?
+- what is your exact age?
+- what year were you born?
+- can you tell me your age?
+- What is your age?
+- What is your birthdate?
+- How old will you be on your next birthday?
+- When do you celebrate your day of birth?
+- How old were you on your last birthday?
+- How many candles were on your last birthday cake?
+- Do you have friends the same age as you, if so, how old are they?
+- Tell me your day, month and year of birth.
+- Whats your age?
+- and you are how many years old?
+- whats your birth year?
+- what age were you when you celebrated your last birthday?
+- how old were you when you celebrated your last birthday?
+- tell me your age?
+- how about your age
+- how old were you on your last birthday?
+- what age are you
+- how old will you be this year?
+- What is your age?
+- What year were you born?
+- How long have you been around?
+- How long have you been alive?
+- What was your age on your last birthday?
+- What will be your age on your next birthday?
+- How many years have you lived?
+- How many years have you been alive?
+- How long have you occupied the earth?
+- What is your count of years being alive so far?
+- what is your age?
+- in what year were you born?
+- what number represents your age?
+- tell me how old you are?
+- give me your age?
+- tell me your age number?
+- how old were you on your last birthday?
+- can you tell me exactly how old you are?
+- can you tell me what number represents your age?
+- how many years old are you?
+- how old are you
+- How old are you?
+- how old are u
+
+##intent:ask_whoami
+- Who am I?
+- Okay who am I?
+- WHo am I
+- Tell me who am I?
+- Tell me who I am?
+- Do you know who I am?
+- Can you tell me who I am?
+- How do I discover who I am?
+- How can I determine who I am?
+- Do you know who am I?
+- Can you tell me who am I?
+- How do I discover who am I?
+- How can I determine who am I?
+- who are I ?
+- who may i ?
+- Shall i know who am i?
+- Tell me who I am.
+- How do I identify myself?
+- Who could I be?
+- tell me who I am?
+- what's my identity?
+- tell me what my identity is?
+- can you tell me what I am?
+- can you tell me what my identity is?
+- can you tell me who I am?
+- who am i
+
+##intent:ask_languagesbot
+- What languages can you use?
+- Which languages do you speak?
+- What are the languages you can speak?
+- In which languages can you speak?
+- What languages do you know?
+- What languages are you fluent in?
+- In which languages are you fluent?
+- What languages can you converse in?
+- What languages do you know how to use?
+- Which languages are you familiar with?
+- What languages can you use?
+- what languages are you familiar with?
+- what languages you know?
+- In what languages are you fluent enough?
+- what languages you can speak ?
+- what languages are you comfortable speaking at?
+- what languages are you good at speaking?
+- what languages you are well versed ?
+- what languages you can be comfortable speaking?
+- what languages you prefer more speaking at?
+- what languages you can handle well?
+- Do you know any other languages?
+- Do you speak any other languages?
+- What languages do you know?
+- What languages do you speak?
+- What do you speak?
+- Speak any other languages?
+- Can you communicate in any other languages?
+- What languages can you communicate in?
+- How many languages do you know?
+- what languages do you know?
+- tell me some languages you know?
+- do you speak any other languages?
+- what else do you know besides English?
+- are you bilingual?
+- are you multilingual?
+- what foreign languages do you know?
+- what foreign languages are you fluent in?
+- how many languages are you fluent in?
+- how many languages do you know?
+- How many languages do you know?
+- How many languages can you speak?
+- What languages are you fluent in?
+- How many different languages are you fluent in?
+- How many languages do you have knowledge of?
+- What are all of the different languages you can speak?
+- Are you familiar with more than one language?
+- Can you speak more than one language?
+- Do you know other languages?
+- How many languages are you familiar with?
+- can you speak in italian?
+- do you speak german?
+- Do you speak german?
+
+##intent:ask_whatismyname
+- what is my name?
+- May i know my name?
+- What is my name?
+- What do I call myself?
+- Tell me my name.
+- Explain my name to me.
+- What could be my name?
+- What name do I go by?
+- What name should I recognize for myself?
+- what's my name?
+- can you tell me my name?
+- What is my name?
+- Do I have a name?
+- Do I have a name? What is it?
+- What was I named?
+- Say my name.
+- Do you know my name?
+- What do people call me?
+- Can you tell me my name?
+- What else do people call me?
+- I have a name, what is it?
+- Tell me my name
+- I'd like to know my name
+- Inform me what my name is
+- Please let me know what my name is
+- Can you tell me what I am called?
+- I'd like to know what my name is
+- What is the name I was given?
+- What does everyone call me?
+- What am I called?
+- What did my parents name me?
+- What do my colleagues call me?
+- What would be the name on my tombstone?
+- Do you know what my name is?
+- What is my first name?
+- What is my full name?
+- What do people call me?
+- What exactly is my name?
+
+## synonym:rbry-mqwu
+- hospital
+- hospitals
+
+## synonym:9wzi-peqs
+- home health agency
+- home health agencies
+
+## synonym:b27b-2uc7
+- nursing home
+- nursing homes
+
+## regex:location
+- [0-9]{5}
